@@ -15,3 +15,5 @@ You can run the app with:
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
 **You will need to change the web hook as you restart systems**
+
+_Unless you set things up to use the public hostname_
